@@ -1,6 +1,6 @@
 # Nice to see you! 👋
 
-I'm Air, Fullstack developer from **South Korea**, What's interesting about me is that I can't solve the algorithm problem.
+I'm Air, Fullstack developer What's interesting about me is that I can't solve the algorithm problem.
 
 **Contact 🔔** </br>
 <img src="https://img.shields.io/badge/!%20%EC%97%90%EC%96%B4%235285-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>
